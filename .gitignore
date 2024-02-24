@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/EasyTool.Main/.vs/EasyTool.Main
+/EasyTool.Main/EasyTool.Main/bin/Debug/net8.0-windows
+/EasyTool.Main/EasyTool.Main/obj
